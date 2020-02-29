@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="574d6b85-bafa-41c1-a93b-722265e9a39a" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/My_python_for_data_analyst/char_08_1合并数据集.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/My_python_for_data_analyst/char_08_1合并数据集.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/My_python_for_data_analyst/char_08_2重塑和轴向旋转.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/My_python_for_data_analyst/char_08_2重塑和轴向旋转.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/My_python_for_data_analyst/char_08_4字符串操作.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/My_python_for_data_analyst/char_08_4字符串操作.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/My_python_for_data_analyst/char_09_1matplotlibAPI入门.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/My_python_for_data_analyst/char_09_1matplotlibAPI入门.ipynb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -16,11 +13,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="char_08_4字符串操作.ipynb" pinned="false" current-in-tab="true">
+      <file leaf-file-name="char_08_4字符串操作.ipynb" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/My_python_for_data_analyst/char_08_4字符串操作.ipynb">
           <provider selected="true" editor-type-id="ipnb-editor">
             <state>
               <selected id="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="char_09_1matplotlibAPI入门.ipynb" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/My_python_for_data_analyst/char_09_1matplotlibAPI入门.ipynb">
+          <provider selected="true" editor-type-id="ipnb-editor">
+            <state>
+              <selected id="0" />
             </state>
           </provider>
         </entry>
@@ -49,7 +55,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -66,6 +71,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="RunDashboard">
@@ -163,6 +169,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/My_python_for_data_analyst/char_08_4字符串操作.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/readme.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
@@ -188,6 +201,13 @@
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
           <selected id="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/My_python_for_data_analyst/char_09_1matplotlibAPI入门.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
         </state>
       </provider>
     </entry>
