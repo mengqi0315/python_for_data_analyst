@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="574d6b85-bafa-41c1-a93b-722265e9a39a" name="Default" comment="" />
+    <list default="true" id="574d6b85-bafa-41c1-a93b-722265e9a39a" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/My_python_for_data_analyst/char_10_1数据聚合和分组运算.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/My_python_for_data_analyst/char_10_1数据聚合和分组运算.ipynb" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -10,35 +13,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="char_08_4字符串操作.ipynb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/My_python_for_data_analyst/char_08_4字符串操作.ipynb">
-          <provider selected="true" editor-type-id="ipnb-editor">
-            <state>
-              <selected id="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="char_09_1matplotlibAPI入门.ipynb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/My_python_for_data_analyst/char_09_1matplotlibAPI入门.ipynb">
-          <provider selected="true" editor-type-id="ipnb-editor">
-            <state>
-              <selected id="0" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="char_10_1数据聚合和分组运算.ipynb" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/My_python_for_data_analyst/char_10_1数据聚合和分组运算.ipynb">
-          <provider selected="true" editor-type-id="ipnb-editor">
-            <state>
-              <selected id="0" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -49,11 +24,13 @@
         <option value="$PROJECT_DIR$/readme.txt" />
         <option value="$PROJECT_DIR$/My_python_for_data_analyst/char_08_1合并数据集.ipynb" />
         <option value="$PROJECT_DIR$/My_python_for_data_analyst/char_08_4字符串操作.ipynb" />
+        <option value="$PROJECT_DIR$/My_python_for_data_analyst/char_10_1数据聚合和分组运算.ipynb" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="953" />
+    <option name="x" value="934" />
+    <option name="y" value="36" />
     <option name="width" value="974" />
     <option name="height" value="1047" />
   </component>
@@ -80,6 +57,9 @@
       </pane>
       <pane id="Scope" />
     </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="D:/用户分群项目" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -134,7 +114,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -163,6 +142,27 @@
     <option name="LAST_COMMIT_MESSAGE" value="add from pycharm 20191208" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/My_python_for_data_analyst/char_08_4字符串操作.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/My_python_for_data_analyst/char_09_1matplotlibAPI入门.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/My_python_for_data_analyst/char_10_1数据聚合和分组运算.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/My_python_for_data_analyst/char_08_4字符串操作.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
@@ -219,10 +219,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/My_python_for_data_analyst/char_08_4字符串操作.ipynb">
+    <entry file="file://$PROJECT_DIR$/My_python_for_data_analyst/char_10_1数据聚合和分组运算.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
-          <selected id="3" />
+          <selected id="0" />
         </state>
       </provider>
     </entry>
@@ -233,10 +233,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/My_python_for_data_analyst/char_10_1数据聚合和分组运算.ipynb">
+    <entry file="file://$PROJECT_DIR$/My_python_for_data_analyst/char_08_4字符串操作.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
-          <selected id="0" />
+          <selected id="3" />
         </state>
       </provider>
     </entry>
